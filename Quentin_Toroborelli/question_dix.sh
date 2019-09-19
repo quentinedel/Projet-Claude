@@ -1,4 +1,4 @@
-#!/bi/nsh
+#!/bin/sh
 #recuperation des ip
 search=$(hostname -I)
 #on définis le compteur
