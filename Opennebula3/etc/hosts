@@ -1,0 +1,13 @@
+127.0.0.1       localhost
+127.0.1.1       opennebula3
+192.168.1.231   opennebula1
+192.168.1.232   opennebula2
+192.168.1.233   opennebula3
+192.168.2.231   gluster1
+192.168.2.232   gluster2
+192.168.2.233   gluster3
+
+# The following lines are desirable for IPv6 capable hosts
+::1     localhost ip6-localhost ip6-loopback
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
